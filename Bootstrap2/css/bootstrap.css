@@ -1,0 +1,14 @@
+.card{
+	text-align:center;
+	margin-top:10px
+	background-color:;}
+.img-circle{
+	width:100%}
+	
+body {
+  background-image: url("../img/sunset.jpg");
+  background-repeat:no-repeat;
+  background-size:100%;
+  background-position:center;
+
+}
