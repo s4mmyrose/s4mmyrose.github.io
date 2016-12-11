@@ -1,0 +1,29 @@
+.card{
+	text-align:center;
+	margin-top:10px;
+	margin-left:0px;
+}
+.img-circle{
+	width:150px}
+.card-block{
+	background-position:center;
+	filter: alpha(opacity=100);
+}
+	
+body {
+  background-image: url("../img/lake-tahoe.jpg");
+  background-repeat:no-repeat;
+  background-size:1500px 1500px;
+  background-position:center;
+  opacity: 1;
+	background}
+.footer {
+  position:fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0.5rem;
+  background-color: #efefef;
+  text-align: center;
+  opacity: 0.5;
+}
